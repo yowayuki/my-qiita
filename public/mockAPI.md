@@ -4,12 +4,11 @@ tags:
   - AWS
   - 初心者
   - Docker
-  - API Gateway
-  - AWS CDK
-  - TypeScript
+  - APIGateway
+  - CDK
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-03-24T01:17:25+09:00'
+id: 03d4dc84469d9ca3d0aa
 organization_url_name: null
 slide: false
 ignorePublish: false
